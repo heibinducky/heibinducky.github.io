@@ -8,10 +8,6 @@ h4 {
   color: white;
 }
 
-p.lead {
-  padding: 5px;
-}
-
 a.links {
   text-decoration: none;
   color: white;
@@ -50,8 +46,14 @@ div.jumbotron {
   margin-bottom: 0;
 }
 
+div.vol {
+  background: #416353;
+  color: white;
+}
+
 div.second {
-  background: #fae2ad;
+  background: #5a313b;
+  color: white;
 }
 
 div.thnds {
