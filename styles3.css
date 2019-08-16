@@ -1,5 +1,5 @@
 body {
-  background: #adf5fa;
+  background: #fae2ad;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -8,13 +8,17 @@ h4 {
   color: white;
 }
 
+p.lead {
+  padding: 5px;
+}
+
 a.links {
   text-decoration: none;
   color: white;
 }
 
 nav.navbar {
-  background: #f26262;
+  background: #fae2ad;
   font-size: 20px;
   font-weight: bold;
 }
@@ -27,12 +31,19 @@ a.dropdown-item, div.dropdown-menu {
 }
 
 span.d-block {
-  background: #336b6f;
+  background: #f26262;
+  color: white;
 }
 
 span.d-block a {
   color: white;
   text-decoration: none;
+}
+
+a, a:hover {
+  font-weight: bold;
+  text-decoration: none;
+  color: #f26262;
 }
 
 div.jumbotron {
