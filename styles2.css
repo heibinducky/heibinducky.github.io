@@ -1,0 +1,91 @@
+body {
+  background: #ffe138;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h1.desc {
+  font-family: 'Fredoka One', cursive;
+  text-transform: uppercase;
+  color: #ffe138;
+}
+
+p.intro {
+  color: #ffe138;
+  font-size: 16px;
+}
+
+a.links {
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffe138;
+}
+
+h3 {
+  font-family: 'Fredoka One', cursive;
+  text-transform: uppercase;
+  color: #ffe138;
+  padding: 20px;
+}
+
+nav.navbar {
+  background: #ffe138;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a.dropdown-item, div.dropdown-menu {
+  background: #ffe138;
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+span.d-block {
+  background: black;
+  color: #ffe138;
+  text-decoration: none;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffe138;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+}
+
+div.jumbotron {
+  margin-bottom: 0;
+}
+
+div.second {
+  background: #192a2f;
+  color: white;
+}
+
+div.thnds {
+  background-image: url('media/universe.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffe138;
+}
+
+div.vol {
+  background: black;
+  color: #ffe138;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  color: #ffe138;
+  background-color: black;
+}
+
+button.btn-mine {
+  background: white;
+  font-size: 16px;
+  font-weight: bold;
+  color: #192a2f;
+}

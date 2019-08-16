@@ -1,0 +1,71 @@
+body {
+  background: #f26262;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h4 {
+  font-weight: bold;
+  color: white;
+}
+
+a.links {
+  text-decoration: none;
+  color: white;
+}
+
+nav.navbar {
+  background: #f26262;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a.dropdown-item, div.dropdown-menu {
+  background: #f26262;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+span.d-block {
+  background: #336b6f;
+}
+
+span.d-block a {
+  color: white;
+  text-decoration: none;
+}
+
+div.jumbotron {
+  margin-bottom: 0;
+}
+
+div.second {
+  background: #fae2ad;
+}
+
+div.thnds {
+  background-image: url('media/universe.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+div.logos {
+  background: #254860;
+}
+
+div.darker{
+  color: black;
+}
+
+button.btn-mine {
+  background: black;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+}
+
+button.btn-mine:hover {
+  color: white;
+  text-decoration: none;
+}
